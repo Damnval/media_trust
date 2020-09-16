@@ -30,3 +30,12 @@ php artisan serve
 ## Test Project
 
 Go to browser and type http://127.0.0.1:8000/
+
+## Others
+
+To boost framework speed run and get .env variables to config
+
+```bash
+php artisan config:cache
+```
+
