@@ -7,7 +7,7 @@ This repository is a coding exam for media trust company that can Register, Logi
 Clone the repository 
 
 ```bash
-git clone https://github.com/Damnval/media_trust.git
+git clone https://github.com/Damnval/brassrabit.git
 ```
 
 ## Install dependencies
@@ -16,7 +16,6 @@ Go to project folder and run
 
 ```bash
 composer install
-npm install && npm run dev
 ```
 
 ## Development Setup
